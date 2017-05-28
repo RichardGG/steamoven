@@ -2,7 +2,7 @@ body{
   margin:0;
   font-family: raleway, helvetica, arial, sans-serif;
   line-height: 1.5em;
-  background-color: #3471b8;
+  background: linear-gradient(90deg, rgb(163, 149, 192),rgb(127, 138, 188));
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -105,7 +105,7 @@ header{
 
   //background: #3e4298;
   color: white;
-  background: #3471b8;
+  //background: #3471b8;
 
   &:nth-child(odd){
     //background: #3471b8;
