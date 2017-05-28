@@ -2,6 +2,7 @@ body{
   margin:0;
   font-family: raleway, helvetica, arial, sans-serif;
   line-height: 1.5em;
+  background-color: #3471b8;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -64,6 +65,7 @@ header{
   }
 
   #logo{
+    display: none;
     //animation: float 3s infinite ease-in-out;
     height: 35%;
     margin-top:-20%;
