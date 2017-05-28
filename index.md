@@ -18,7 +18,7 @@ sections:
     link: vector
     
   - title: EEVEE POSTER
-    url: /img/projects/vector/EEVEEPOSTER.jpg
+    url: /img/projects/vector/EEVEE%20POSTER.jpg
     link: vector
     
    - title: FLAREON POSTER
