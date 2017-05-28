@@ -14,7 +14,11 @@ sections:
   images:
   
   - title: Drink Up Cat Illustration BACKGROUND
-    url: /img/projects/vector/Drink%20Up%20Cat%20Illustration%20BACKGROUND.png
+    url: /img/projects/vector/Drink%20Up%20Cat%20Illustration%20BACKGROUND.jpg
+    link: vector
+    
+  - title: EEVEE POSTER
+    url: /img/projects/vector/EEVEEPOSTER.jpg
     link: vector
     
 - title: Past Design Works
