@@ -10,56 +10,12 @@ linkedin_link: http://linkedin.com/in/nataliamokwinski
 
 sections: 
 
-- title: Design Work
-  images: 
-
-  - title: Marina Magazine
-    url: /img/projects/marina.jpg
-    link: marina
-
-  - title: Marina Magazine
-    url: /img/projects/marina/z1.jpg
-    link: marina
-
-  - title: Marina Magazine
-    url: /img/projects/book/z3.jpg
-    link: marina
-
-  - title: Typography from Around the World
-    url: /img/projects/book.jpg
-    link: marina
-
-
 - title: Vector Illustrations
   images:
   
   - title: Drink Up Cat Illustration BACKGROUND
     url: /img/projects/vector/Drink%20Up%20Cat%20Illustration%20BACKGROUND.png
     link: vector
-
-  - title: Llamas
-    url: /img/projects/vector/z1.jpg
-    link: marina
-
-  - title: Llamas
-    url: /img/projects/vector/z2.jpg
-    link: marina
-
-  - title: Llamas
-    url: /img/projects/vector/z3.jpg
-    link: marina
-
-  - title: Llamas
-    url: /img/projects/vector/z6.jpg
-    link: marina
-
-  - title: Llamas
-    url: /img/projects/vector/z3.jpg
-    link: marina
-
-  - title: Llamas
-    url: /img/projects/vector/z6.jpg
-    link: marina
 
 - title: Other
   images:
@@ -78,6 +34,26 @@ sections:
 
   - title: Zeeps
     url: /img/projects/zeeps/z3.jpg
+    link: marina
+    
+    
+- title: Design Work
+  images: 
+
+  - title: Marina Magazine
+    url: /img/projects/marina.jpg
+    link: marina
+
+  - title: Marina Magazine
+    url: /img/projects/marina/z1.jpg
+    link: marina
+
+  - title: Marina Magazine
+    url: /img/projects/book/z3.jpg
+    link: marina
+
+  - title: Typography from Around the World
+    url: /img/projects/book.jpg
     link: marina
 
 ---
