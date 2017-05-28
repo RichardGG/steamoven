@@ -16,28 +16,8 @@ sections:
   - title: Drink Up Cat Illustration BACKGROUND
     url: /img/projects/vector/Drink%20Up%20Cat%20Illustration%20BACKGROUND.png
     link: vector
-
-- title: Other
-  images:
-
-  - title: Tea Time
-    url: /img/projects/teatime.jpg
-    link: marina
-
-  - title: Tea Time
-    url: /img/projects/teatime/z1.jpg
-    link: marina
-
-  - title: Zeeps
-    url: /img/projects/zeeps.jpg
-    link: marina
-
-  - title: Zeeps
-    url: /img/projects/zeeps/z3.jpg
-    link: marina
     
-    
-- title: Design Work
+- title: Past Design Works
   images: 
 
   - title: Marina Magazine
@@ -54,6 +34,22 @@ sections:
 
   - title: Typography from Around the World
     url: /img/projects/book.jpg
+    link: marina
+    
+  - title: Tea Time
+    url: /img/projects/teatime.jpg
+    link: marina
+
+  - title: Tea Time
+    url: /img/projects/teatime/z1.jpg
+    link: marina
+
+  - title: Zeeps
+    url: /img/projects/zeeps.jpg
+    link: marina
+
+  - title: Zeeps
+    url: /img/projects/zeeps/z3.jpg
     link: marina
 
 ---
