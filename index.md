@@ -32,7 +32,7 @@ sections:
     link: vector
     
   - title: BAT INSTAGRAM
-    url: /img/projects/vector/BAT%20INSTAGRAM.jpg
+    url: /img/projects/vector/CUTIE%20BAT2.png
     link: vector
     
   - title: Drink Up Cat Illustration BACKGROUND
