@@ -37,6 +37,14 @@ sections:
     url: /img/projects/vector/z6.jpg
     link: vector
     
+  - title: z5
+    url: /img/projects/vector/z5.jpg
+    link: vector
+    
+  - title: z4
+    url: /img/projects/vector/z4.jpg
+    link: vector
+    
 - title: Past Design Works
   images: 
 
