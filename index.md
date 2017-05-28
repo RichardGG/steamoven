@@ -47,7 +47,7 @@ sections:
     url: /img/projects/vector/z5.jpg
     link: vector
     
-- title: Past Design Works
+- title: Print Graphics
   images: 
 
   - title: Marina Magazine
