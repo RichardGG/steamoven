@@ -82,7 +82,7 @@ sections:
 
 ---
 
-# Who?
+# Who is Steamoven?
 
 Hi! My name is Natalia and I'm a graphic designer and sessional academic at Grififth University. My passion is design and I'm always seeking a challenge. I also specialise in vector illustration as I love to include my own flare in design when possible!
 
