@@ -33,7 +33,7 @@ sections:
 - title: Vector Illustrations
   images:
   
-- title: Drink Up Cat Illustration BACKGROUND
+  - title: Drink Up Cat Illustration BACKGROUND
     url: /img/projects/vector/Drink Up Cat Illustration BACKGROUND.png
     link: vector
 
