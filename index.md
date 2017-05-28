@@ -1,6 +1,8 @@
 ---
 layout: home
 
+title: Steamoven Design & Art
+
 facebook_link: http://facebook.com/steamovenart
 
 instagram_link: http://instagram.com/steamovendesign/
