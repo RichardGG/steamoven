@@ -36,7 +36,7 @@ sections:
     link: vector
     
   - title: Drink Up Cat Illustration BACKGROUND
-    url: /img/projects/vector/Drink%20Up%20Cat%20Illustration%20BACKGROUND.jpg
+    url: /img/projects/vector/Drink%20Up%20Cat%20Illustration%20GIT.png
     link: vector
     
   - title: z6
