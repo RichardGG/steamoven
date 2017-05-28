@@ -73,21 +73,6 @@ header{
 
 }
 
-.flexo{
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  h1{
-    width: 100%;
-  }
-  p {
-    margin: 0;
-    background: none;
-    box-shadow: none;
-    color: white;
-  }
-}
-
 .container{
   max-width: 1500px;
   margin: auto;
@@ -125,6 +110,21 @@ header{
   &:nth-child(odd){
     //background: #3471b8;
     
+  }
+  
+  .flexo{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    h1{
+      width: 100%;
+    }
+    p {
+      margin: 0;
+      background: none;
+      box-shadow: none;
+      color: white;
+    }
   }
 
   ul,li{
