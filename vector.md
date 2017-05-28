@@ -10,11 +10,11 @@ Since beginning my graphic design studies, I always enjoyed illustration with si
 
 With the help of InDesign, these are some of the artworks I have created over the years.
 
-![Image one](/img/projects/vector/Drink%20Up%20Cat%20Illustration%20BACKGROUND.jpg)
-![Image one](/img/projects/vector/EEVEE%20POSTER.jpg)
-![Image one](/img/projects/vector/FLAREON%20POSTER.jpg)
-![Image one](/img/projects/vector/RAICHU%20POSTER.jpg)
+![Image one](/img/projects/vector/EEVEE%20POSTER.png)
+![Image one](/img/projects/vector/FLAREON%20POSTER.png)
+![Image one](/img/projects/vector/RAICHU%20POSTER.png)
+![Image one](/img/projects/vector/JOLTEON%20POSTER.png)
 ![Image one](/img/projects/vector/BAT%20INSTAGRAM.jpg)
+![Image one](/img/projects/vector/Drink%20Up%20Cat%20Illustration%20BACKGROUND.jpg)
 ![Image one](/img/projects/vector/z6.jpg)
 ![Image one](/img/projects/vector/z5.jpg)
-![Image one](/img/projects/vector/z3.jpg)
