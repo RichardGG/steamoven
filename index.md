@@ -21,6 +21,10 @@ sections:
     url: /img/projects/vector/EEVEEPOSTER.jpg
     link: vector
     
+   - title: FLAREON POSTER
+    url: /img/projects/vector/FLAREON POSTER.jpg
+    link: vector
+    
 - title: Past Design Works
   images: 
 
