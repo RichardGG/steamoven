@@ -14,5 +14,5 @@ After completion I received paid work from Gold Coast City Marina to brand "Quar
 
 ![Image one](/img/projects/marina/z1.jpg)
 ![Image one](/img/projects/marina/z2.jpg)
-![Image one](/img/projects/marina/z3.jpg)
+![Image one](/img/projects/marina/marcelo.jpg)
 ![Image one](/img/projects/marina/z4.jpg)
