@@ -73,6 +73,9 @@ sections:
   - title: Tea Time
     url: /img/projects/teatime/z1.jpg
     link: marina
+    
+- title: Other Projects
+ images: 
 
   - title: Zeeps
     url: /img/projects/zeeps.jpg
