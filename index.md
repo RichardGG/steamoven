@@ -3,7 +3,7 @@ layout: home
 
 facebook_link: http://facebook.com/steamovenart
 
-instagram_link: http://instagram.com/steamovenart/
+instagram_link: http://instagram.com/steamovendesign/
 
 linkedin_link: http://linkedin.com/in/nataliamokwinski
 
@@ -31,6 +31,10 @@ sections:
     
   - title: BAT INSTAGRAM
     url: /img/projects/vector/BAT%20INSTAGRAM.jpg
+    link: vector
+    
+  - title: z6
+    url: /img/projects/vector/z6.jpg
     link: vector
     
 - title: Past Design Works
