@@ -14,25 +14,29 @@ sections:
 
 - title: Vector Illustrations
   images:
-  
-  - title: Drink Up Cat Illustration BACKGROUND
-    url: /img/projects/vector/Drink%20Up%20Cat%20Illustration%20BACKGROUND.jpg
-    link: vector
-    
+ 
   - title: EEVEE POSTER
-    url: /img/projects/vector/EEVEE%20POSTER.jpg
+    url: /img/projects/vector/EEVEE%20POSTER.png
     link: vector
     
   - title: FLAREON POSTER
-    url: /img/projects/vector/FLAREON%20POSTER.jpg
+    url: /img/projects/vector/FLAREON%20POSTER.png
     link: vector
     
   - title: RAICHU POSTER
-    url: /img/projects/vector/RAICHU%20POSTER.jpg
+    url: /img/projects/vector/RAICHU%20POSTER.png
+    link: vector
+    
+  - title: JOLTEON POSTER
+    url: /img/projects/vector/JOLTEON%20POSTER.png
     link: vector
     
   - title: BAT INSTAGRAM
     url: /img/projects/vector/BAT%20INSTAGRAM.jpg
+    link: vector
+    
+  - title: Drink Up Cat Illustration BACKGROUND
+    url: /img/projects/vector/Drink%20Up%20Cat%20Illustration%20BACKGROUND.jpg
     link: vector
     
   - title: z6
@@ -41,10 +45,6 @@ sections:
     
   - title: z5
     url: /img/projects/vector/z5.jpg
-    link: vector
-    
-  - title: z3
-    url: /img/projects/vector/z3.jpg
     link: vector
     
 - title: Past Design Works
