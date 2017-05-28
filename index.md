@@ -29,6 +29,10 @@ sections:
     url: /img/projects/vector/RAICHU%20POSTER.jpg
     link: vector
     
+  - title: BAT INSTAGRAM
+    url: /img/projects/vector/BAT%20INSTAGRAM.jpg
+    link: vector
+    
 - title: Past Design Works
   images: 
 
