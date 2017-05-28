@@ -34,7 +34,7 @@ sections:
   images:
   
   - title: Drink Up Cat Illustration BACKGROUND
-    url: /img/projects/vector/Drink Up Cat Illustration BACKGROUND.png
+    url: /img/projects/vector/Drink%20Up%20Cat%20Illustration%20BACKGROUND.png
     link: vector
 
   - title: Llamas
