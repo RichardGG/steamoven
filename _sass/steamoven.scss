@@ -125,6 +125,17 @@ header{
       box-shadow: none;
       color: white;
     }
+    &:after {
+        content: '';
+        margin-top: 70px;
+        width: 100%;
+        height: 140px;
+        display: flex;
+        background: url(/img/header/CLOUD.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
   }
 
   ul,li{
