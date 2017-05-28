@@ -22,7 +22,7 @@ sections:
     link: vector
     
    - title: FLAREON POSTER
-    url: /img/projects/vector/FLAREON POSTER.jpg
+    url: /img/projects/vector/FLAREON%20POSTER.jpg
     link: vector
     
 - title: Past Design Works
