@@ -75,7 +75,7 @@ sections:
     link: marina
     
 - title: Other Projects
- images: 
+  images: 
 
   - title: Zeeps
     url: /img/projects/zeeps.jpg
