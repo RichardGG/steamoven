@@ -44,7 +44,7 @@ sections:
     link: vector
     
   - title: INNER DEMONS
-    url: /img/projects/vector/INNER%20DEMONS%20ART%20C01.jpg
+    url: /img/projects/vector/Inner%20Demons%20Art%20C01.jpg
     link: vector
     
 - title: Print Graphics
