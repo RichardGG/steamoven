@@ -79,11 +79,11 @@ sections:
 
   - title: Zeeps
     url: /img/projects/zeeps.jpg
-    link: marina
+    link: zeeps
 
   - title: Zeeps
     url: /img/projects/zeeps/z3.jpg
-    link: marina
+    link: zeeps
 
 ---
 
