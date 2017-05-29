@@ -16,31 +16,31 @@ sections:
   images:
     
   - title: FLAREON POSTER
-    url: /img/projects/vector/WebArt__Eevee.png
+    url: /img/projects/vector/WebArt_Eevee.png
     link: vector
     
   - title: RAICHU POSTER
-    url: /img/projects/vector/WebArt__Flareon.png
+    url: /img/projects/vector/WebArt_Flareon.png
     link: vector
     
   - title: JOLTEON POSTER
-    url: /img/projects/vector/WebArt__Jolteon.png
+    url: /img/projects/vector/WebArt_Jolteon.png
     link: vector
     
   - title: BAT INSTAGRAM
-    url: /img/projects/vector/WebArt__Raichu.png
+    url: /img/projects/vector/WebArt_Raichu.png
     link: vector
     
   - title: Drink Up Cat Illustration BACKGROUND
-    url: /img/projects/vector/WebArt__Bat.png
+    url: /img/projects/vector/WebArt_Bat.png
     link: vector
     
   - title: z6
-    url: /img/projects/vector/WebArt__KittyCat.jpg
+    url: /img/projects/vector/WebArt_KittyCat.png
     link: vector
     
   - title: INNER DEMONS
-    url: /img/projects/vector/WebArt__Oskar.png
+    url: /img/projects/vector/WebArt_Oskar.png
     link: vector
     
 - title: Print Graphics
