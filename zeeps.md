@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Zeeps
-permalink: /marina/
+permalink: /zeeps/
 ---
 
 # Zeeps Carry Solutions
