@@ -43,8 +43,8 @@ sections:
     url: /img/projects/vector/z6.jpg
     link: vector
     
-  - title: z5
-    url: /img/projects/vector/z5.jpg
+  - title: INNER DEMONS
+    url: /img/projects/vector/INNER%20DEMONS%20ART%20C01.jpg
     link: vector
     
 - title: Print Graphics
