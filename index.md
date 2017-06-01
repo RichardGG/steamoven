@@ -102,3 +102,5 @@ sections:
 Hi! My name is Natalia and I'm a graphic designer & sessional academic at Griffith University. My passion is design and I'm always seeking a challenge. I also specialise in vector illustration as I love to include my own flare in design when possible!
 
 I am proficient in Illustrator, InDesign and Photoshop, focusing mainly on corporate branding and product packaging design. I always look for new things to learn, so my list will be ever expanding in the years to come. Please make yourself at home!
+
+If you're looking to secure me in for your next design project, or you'd like to commission me for some illustrations, feel free to send me an email to n.mokwinski@griffith.edu.au!
