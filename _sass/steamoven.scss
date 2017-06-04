@@ -157,6 +157,7 @@ header{
           bottom: 0;
           background-size: cover;
           background-position: center;
+          transform: scale(1.01);
           transition: transform 0.3s;
         }
         &:hover{
