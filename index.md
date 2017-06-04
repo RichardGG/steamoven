@@ -19,7 +19,7 @@ sections:
     
   - title: FLAREON POSTER
     url: /img/projects/vector/WebArt__Eevee.png
-    link: vector
+    link: vector#flareon
     
   - title: RAICHU POSTER
     url: /img/projects/vector/WebArt__Flareon.png
