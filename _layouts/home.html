@@ -76,15 +76,44 @@ layout: default
     hashchange(hash);
   });
 
+  
+   function getCoords(elem) { // crossbrowser version
+    var box = elem.getBoundingClientRect();
+
+    var body = document.body;
+    var docEl = document.documentElement;
+
+    var scrollTop = window.pageYOffset || docEl.scrollTop || body.scrollTop;
+    var scrollLeft = window.pageXOffset || docEl.scrollLeft || body.scrollLeft;
+
+    var clientTop = docEl.clientTop || body.clientTop || 0;
+    var clientLeft = docEl.clientLeft || body.clientLeft || 0;
+
+    var top  = box.top +  scrollTop - clientTop;
+    var left = box.left + scrollLeft - clientLeft;
+
+    return { top: Math.round(top), left: Math.round(left) };
+}
 
   function openPage(hash){
 
       var pageName = hash.substr(1);
+      var imageName = null;
+      var nameArray = pageName.split('#');
+      if(nameArray.length > 1){
+        pageName = nameArray[0];
+        imageName = nameArray[1];
+      }
       console.log(pageName);
       document.querySelector('.background-zone').classList.add('active');
       document.querySelector('.page.'+pageName).classList.add('active');
       lastScroll = document.body.scrollTop;
-      document.body.scrollTop = 0;
+      if(imageName != null){
+        var coords = getCoords(document.querySelector('.page.'+pageName+' img[alt="'+imageName+'"]'));
+        document.body.scrollTop = coords.top;
+      }else{
+        document.body.scrollTop = 0;
+      }
     
   }
 
