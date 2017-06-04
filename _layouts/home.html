@@ -79,8 +79,10 @@ layout: default
 
   function openPage(hash){
 
+      var pageName = hash.substr(1);
+      console.log(pageName);
       document.querySelector('.background-zone').classList.add('active');
-      document.querySelector('.page.'+hash.substr(1)).classList.add('active');
+      document.querySelector('.page.'+pageName).classList.add('active');
       lastScroll = document.body.scrollTop;
       document.body.scrollTop = 0;
     
