@@ -17,37 +17,37 @@ sections:
 - title: Vector Illustrations
   images:
     
-  - title: FLAREON POSTER
+  - title: EEVEE POSTER
     url: /img/projects/vector/WebArt__Eevee.png
-    link: vector#flareon
+    link: vector#eevee
     
   - title: RAICHU POSTER
     url: /img/projects/vector/WebArt__Flareon.png
-    link: vector
+    link: vector#raichu
     
   - title: JOLTEON POSTER
     url: /img/projects/vector/WebArt__Jolteon.png
-    link: vector
+    link: vector#jolteon
     
   - title: BAT INSTAGRAM
     url: /img/projects/vector/WebArt__Raichu.png
-    link: vector
+    link: vector#cutiebat
     
   - title: Drink Up Cat Illustration BACKGROUND
     url: /img/projects/vector/WebArt__Bat.png
-    link: vector
+    link: vector#drinkup
     
   - title: z6
     url: /img/projects/vector/WebArt__KittyCat.png
-    link: vector
+    link: vector#innerdemons
     
   - title: Oskar The Cat
     url: /img/projects/vector/WebArt__Oskar.png
-    link: vector
+    link: vector#amungst
     
   - title: Inner Demons
     url: /img/projects/vector/Inner%20Demons%20Art%20C01.png
-    link: vector
+    link: vector#innerdemons
     
 - title: Print Graphics
   images: 
