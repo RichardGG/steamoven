@@ -16,5 +16,5 @@ With the help of InDesign, these are some of the artworks I have created over th
 ![raichu](/img/projects/vector/RAICHU%20POSTER.png)
 ![cutiebat](/img/projects/vector/CUTIE%20BAT2.png)
 ![drinkup](/img/projects/vector/Drink%20Up%20Cat%20Illustration%20GIT.png)
-![alpaca](/img/projects/vector/z5.jpg)
+![amungst](/img/projects/vector/z5.jpg)
 ![innerdemons](/img/projects/vector/Inner%20Demons%20Art%20C01.png)
