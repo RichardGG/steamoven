@@ -12,7 +12,13 @@ As well as having completed the assessment with a previous internship, I was int
 
 After completion I received paid work from Gold Coast City Marina to brand "Quarterdeck", their on-site restaurant. Ialso went on to design a range of advertisements for the Marina (including product packaging design).
 
-![Image one](/img/projects/marina/z1.jpg)
-![Image one](/img/projects/marina/z2.jpg)
-![Image one](/img/projects/marina/z3.jpg)
-![Image one](/img/projects/marina/z4.jpg)
+![m1](/img/projects/marina/z1.jpg)
+![m2](/img/projects/marina/z2.jpg)
+![m3](/img/projects/marina/z3.jpg)
+![m4](/img/projects/marina/z4.jpg)
+![marina](/img/projects/marina.jpg)
+![marcelo](/img/projects/book/marcelo.jpg)
+![bookopen](/img/projects/book/bookopen.jpg)
+![teatime](/img/projects/teatime.jpg)
+![t4](/img/projects/teatime/z1.jpg)
+
