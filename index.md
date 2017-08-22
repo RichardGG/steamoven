@@ -81,19 +81,19 @@ sections:
 
   - title: Zeeps
     url: /img/projects/zeeps/z1.jpg
-    link: zeeps
+    link: zeeps#z1
 
   - title: Zeeps
     url: /img/projects/zeeps/z3.jpg
-    link: zeeps
+    link: zeeps#z3
     
   - title: Zeeps
     url: /img/projects/zeeps/z2.jpg
-    link: zeeps
+    link: zeeps#z2
     
   - title: Zeeps
     url: /img/projects/zeeps/z4.jpg
-    link: zeeps
+    link: zeeps#z4
 
 ---
 
