@@ -54,27 +54,27 @@ sections:
 
   - title: Marina Magazine
     url: /img/projects/marina.jpg
-    link: marina
+    link: marina#marina
 
   - title: Marina Magazine
     url: /img/projects/marina/z1.jpg
-    link: marina
+    link: marina#m1
 
   - title: Book Page
     url: /img/projects/book/marcelo.jpg
-    link: marina
+    link: marina#marcelo
 
   - title: Typography from Around the World
     url: /img/projects/book/bookopen.jpg
-    link: marina
+    link: marina#bookopen
     
   - title: Tea Time
     url: /img/projects/teatime.jpg
-    link: marina
+    link: marina#teatime
 
   - title: Tea Time
     url: /img/projects/teatime/z1.jpg
-    link: marina
+    link: marina#t4
     
 - title: Other Projects
   images: 
