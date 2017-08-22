@@ -21,25 +21,25 @@ sections:
     url: /img/projects/vector/WebArt__Eevee.png
     link: vector#eevee
     
-  - title: RAICHU POSTER
+  - title: FLAREON POSTER
     url: /img/projects/vector/WebArt__Flareon.png
-    link: vector#raichu
+    link: vector#flareon
     
   - title: JOLTEON POSTER
     url: /img/projects/vector/WebArt__Jolteon.png
     link: vector#jolteon
     
-  - title: BAT INSTAGRAM
+  - title: RAICHU
     url: /img/projects/vector/WebArt__Raichu.png
+    link: vector#raichu
+    
+  - title: Cutie Bat
+    url: /img/projects/vector/WebArt__Bat.png
     link: vector#cutiebat
     
   - title: Drink Up Cat Illustration BACKGROUND
-    url: /img/projects/vector/WebArt__Bat.png
-    link: vector#drinkup
-    
-  - title: z6
     url: /img/projects/vector/WebArt__KittyCat.png
-    link: vector#innerdemons
+    link: vector#drinkup
     
   - title: Oskar The Cat
     url: /img/projects/vector/WebArt__Oskar.png
