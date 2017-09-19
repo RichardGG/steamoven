@@ -99,12 +99,12 @@ sections:
   images: 
 
   - title: GCSG
-    url: /img/projects/guild/olympictriviaposter.png
-    link: guild#olympictriviaposter
+    url: /img/projects/guild/harrypottertriviaposter.png
+    link: guild#harrypottertriviaposter.png
   
   - title: GCSG
-    url: /img/projects/guild/harrypottertriviaposter.png
-    link: guild#harrypottertriviaposter  
+    url: /img/projects/guild/olympictriviaposter.png
+    link: guild#olympictriviaposter.png
     
 
 ---
