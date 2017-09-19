@@ -94,6 +94,18 @@ sections:
   - title: Zeeps
     url: /img/projects/zeeps/z4.jpg
     link: zeeps#z4
+    
+- title: Gold Coast Student Guild
+  images: 
+
+  - title: GCSG
+    url: /img/projects/guild/SPORTS-POSTER-GUILD_TRIVIA_A2_NOBLEED.pdf
+    link: guild#SPORTS-POSTER-GUILD_TRIVIA_A2_NOBLEED
+  
+  - title: GCSG
+    url: /img/projects/guild/SPORTS-POSTER-GUILD_TRIVIA_HARRYPOTTER-A2_NOBLEED.pdf
+    link: guild#SPORTS-POSTER-GUILD_TRIVIA_HARRYPOTTER-A2_NOBLEED  
+    
 
 ---
 
