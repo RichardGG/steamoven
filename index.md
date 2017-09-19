@@ -99,12 +99,12 @@ sections:
   images: 
 
   - title: GCSG
-    url: /img/projects/guild/SPORTS-POSTER-GUILD_TRIVIA_A2_NOBLEED.pdf
-    link: guild#SPORTS-POSTER-GUILD_TRIVIA_A2_NOBLEED
+    url: /img/projects/guild/olympictriviaposter.png
+    link: guild#olympictriviaposter
   
   - title: GCSG
-    url: /img/projects/guild/SPORTS-POSTER-GUILD_TRIVIA_HARRYPOTTER-A2_NOBLEED.pdf
-    link: guild#SPORTS-POSTER-GUILD_TRIVIA_HARRYPOTTER-A2_NOBLEED  
+    url: /img/projects/guild/harrypottertriviaposter.png
+    link: guild#harrypottertriviaposter  
     
 
 ---
