@@ -95,11 +95,10 @@ sections:
     url: /img/projects/zeeps/z4.jpg
     link: zeeps#z4
     
-
 ---
 
 # Who is Steamoven?
 
-Hi! My name is Natalia and I'm a graphic designer & sessional academic at Griffith University. My passion is design and I'm always seeking a challenge. I also specialise in vector illustration as I love to include my own flare in design when possible. I am proficient in Illustrator, InDesign and Photoshop, focusing mainly on corporate branding and product packaging design. I'm always looking for new things to try, so keep your eyes peeled for more exciting projects!
+Hi! My name is Natalia. My passion is design and I'm always seeking a challenge. I primarily specialise in for-print graphic design, as well as vector illustration (as I love to include my own flare in design when possible). I am proficient in Illustrator, InDesign and Photoshop. I'm always looking for new things to try, so keep your eyes peeled for more exciting projects!
 
-If you're looking to secure me in for your next design project, or you'd like to commission me for some illustrations, feel free to send an email to n.mokwinski@griffith.edu.au
+If you're looking to secure me in for your next design project, or you'd like to commission me for illustrations, feel free to send an email to n.mokwinski@griffith.edu.au
