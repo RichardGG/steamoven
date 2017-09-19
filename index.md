@@ -95,17 +95,6 @@ sections:
     url: /img/projects/zeeps/z4.jpg
     link: zeeps#z4
     
-- title: Gold Coast Student Guild
-  images: 
-
-  - title: GCSG
-    url: /img/projects/guild/harrypottertriviaposter.png
-    link: guild#harrypottertriviaposter.png 
-  
-  - title: GCSG
-    url: /img/projects/guild/olympictriviaposter.png
-    link: guild#olympictriviaposter.png
-    
 
 ---
 
