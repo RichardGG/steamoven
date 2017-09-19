@@ -100,7 +100,7 @@ sections:
 
   - title: GCSG
     url: /img/projects/guild/harrypottertriviaposter.png
-    link: guild#harrypottertriviaposter.png
+    link: guild#harrypottertriviaposter.png 
   
   - title: GCSG
     url: /img/projects/guild/olympictriviaposter.png
